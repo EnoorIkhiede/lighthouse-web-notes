@@ -7,7 +7,7 @@
 
 This repository contains all of the notes taken by Enoor for the Lighthouse Labs Web Development Bootcamp.
 
-...taken by [Enoor](https://github.com/EnoorIkhiede) for the Lighthouse Labs web development bootcamp._1/D
+...taken by [Enoor](https://github.com/EnoorIkhiede) for the Lighthouse Labs web development bootcamp.
 
 ## Table of Contents
 * [Week 1](/Week_1)
